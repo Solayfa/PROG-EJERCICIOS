@@ -1,0 +1,4 @@
+1. El codigo no compilara ya que hay que abrir una clase y un metodo main donde se pueda ejecutar la instruccion.
+2. la variable int total mostrara 6 + 8 que es 14.
+3. Para averiguar el numero total de paginas se deberia realizar una multiplicacion.
+4. Es un error logico.

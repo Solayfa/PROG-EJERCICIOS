@@ -1,0 +1,6 @@
+ControlAcceso.java
+RegistroDiario.java
+LanzadorApp.java
+MenuPrincipal.java
+
+Si el nombrer del archivo no coincidiera con el nombre de la clase el archivo no compilaria y se mostraria el error.

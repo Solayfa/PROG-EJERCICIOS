@@ -1,0 +1,6 @@
+1.int -> numero entero de ventenas
+2.double -> double para representar un numero decimal
+3.long -> long para representar un numero entero largo
+4.int -> entero para representar un numero entero de alumnos
+5.double -> double para representar un numero decimal en peso
+6.int -> entero para representar un numero entero de mensajes
